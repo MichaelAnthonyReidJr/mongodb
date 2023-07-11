@@ -1,0 +1,1 @@
+mongorestore -db=starwars --uri="mongodb+srv://efficiencymarriesefficacy:mR2944360$@cluster0.oy38bex.mongodb.net/?retryWrites=true&w=majority" dump
